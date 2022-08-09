@@ -1,0 +1,11 @@
+void majiangpai(int number_pai, int number, int x, int y);
+void shengyupaishuxianshi(int paishu);
+void qipaixianshi(int type, int number_pai, int number);
+void shwdra();
+void daoxiamajiangpai(int number_pai, int who, int number, int x, int y);
+void anniu(int number, int i);
+void duimianpai(int n);
+void youmianpai(int n);
+void zuomianpai(int n);
+void drawAlpha(IMAGE* picture, int  picture_x, int picture_y);
+void lizhibang();

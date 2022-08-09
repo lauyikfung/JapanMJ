@@ -1,0 +1,25 @@
+﻿  JapanMJ.cpp
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(493,16): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(504,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(511,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(518,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(525,7): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(549,17): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(555,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(627,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(702,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(705,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(705,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(718,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(718,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(731,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(731,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(731,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(731,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(750,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(756,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(756,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(758,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(758,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\编程\日本麻将\JapanMJ\JapanMJ.cpp(769,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  JapanMJ.vcxproj -> D:\编程\日本麻将\x64\Debug\JapanMJ.exe
